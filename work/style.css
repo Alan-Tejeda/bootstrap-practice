@@ -1,0 +1,18 @@
+body {
+    background-color: solid black;
+    padding: 20px;
+}
+.box {
+    padding: 50px;
+    margin: 1px;
+}
+.col-1 {
+    width: 100px;
+    height: 100px;
+}
+
+.block1 {background-color: purple;}
+.block2 {background-color: yellow;}
+.block3 {background-color: red;}
+.block4 {background-color: blue;}
+.block5 {background-color: green;}
